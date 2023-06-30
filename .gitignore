@@ -13,3 +13,7 @@ os/virt.out
 tools/
 pushall.sh
 .vscode/*.log
+
+# gdb related
+
+.gdb_history
